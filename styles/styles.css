@@ -1,0 +1,9 @@
+body {
+  background: #c5d3e8;
+}
+.container {
+  max-width: 600px;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+}
